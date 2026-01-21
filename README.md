@@ -21,8 +21,8 @@ Model Context Protocol (MCP) servers are interfaces that allow AI models to inte
 - [Data Science Tools](#data-science-tools)
 - [Databases](#databases)
 - [Developer Tools](#developer-tools)
-- [File Systems](#file-systems)
 - [E-Commerce](#e-commerce)
+- [File Systems](#file-systems)
 - [Finance](#finance)
 - [Gaming](#gaming)
 - [Knowledge & Memory](#knowledge-memory)
@@ -214,17 +214,17 @@ MCP servers related to Developer Tools
 - [code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp) - An MCP server to create secure code sandbox environment for executing code within Docker containers
 - [Figma](https://github.com/Figma-Linux/figma-mcp-server) - A server that allows Claude to interact with Figma files
 
-## File Systems
-
-MCP servers related to File Systems
-
-- [Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Secure file operations with configurable access controls
-
 ## E-Commerce
 
 MCP servers related to E-Commerce
 
 - [Coupang MCP](https://github.com/uju777/coupang-mcp) - MCP server for Coupang (Korea's largest e-commerce) product search with Rocket Delivery filtering and affiliate link generation
+
+## File Systems
+
+MCP servers related to File Systems
+
+- [Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Secure file operations with configurable access controls
 
 ## Finance
 
