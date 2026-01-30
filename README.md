@@ -367,6 +367,7 @@ MCP servers related to Research & Data
 MCP servers related to Search
 
 - [Brave Search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) - Web and local search using Brave's Search API
+- [A2ABench](https://github.com/khalidsaidi/a2abench) - Agent-native developer Q&A with MCP search/fetch and A2A discovery (canonical citations)
 - [Everything Search](https://github.com/mamertofabian/mcp-everything-search) - Fast Windows file search using Everything SDK
 - [Kagi](https://github.com/ac3xx/mcp-servers-kagi) - Kagi search API integration
 - [Exa](https://github.com/theishangoswami/exa-mcp-server) - Exa AI Search API
