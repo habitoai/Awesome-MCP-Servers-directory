@@ -253,6 +253,7 @@ MCP servers related to Knowledge & Memory
 - [cognee-mcp](https://github.com/topoteretes/cognee/tree/main/cognee-mcp) - GraphRAG memory server with customizable ingestion, data processing and search
 - [DevRev](https://github.com/kpsunil97/devrev-mcp-server) - An MCP server to integrate with DevRev APIs to search through your DevRev Knowledge Graph where objects can be imported from diff. sources
 - [Freebase](https://github.com/Mito-Ya-Baraka/freebase-mcp-server) - A MCP server to interact with Freebase, a large collaborative knowledge base
+- [OMEGA](https://github.com/omega-memory/core) - Persistent memory for AI coding agents with semantic search, auto-capture, cross-session learning, and checkpoint/resume. #1 on LongMemEval (95.4%). Local-first, 25 MCP tools.
 
 ## Location Services
 
