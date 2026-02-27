@@ -130,6 +130,7 @@ MCP servers related to Communication
 - [Email](https://github.com/Shy2593666979/mcp-server-email) - This server enables users to send emails through various email providers, including Gmail, Outlook, Yahoo, Sina, Sohu, 126, 163, and QQ Mail. It also supports attaching files from specified directories, making it easy to upload attachments along with the email content
 - [Discord](https://github.com/v-3/discordmcp) - A MCP server to connect to Discord guilds through a bot and read and write messages in channels
 - [Gmail](https://github.com/Mito-Ya-Baraka/gmail-mcp-server) - A MCP server to interact with Gmail API
+- [Commune MCP](https://github.com/shanjairaj7/commune) - Email infrastructure built for AI agents — provision inboxes programmatically, send and receive email, manage threads, custom domains, attachments, structured extraction on inbound mail, and SMS
 
 ## Customer Data Platforms
 
@@ -441,3 +442,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
