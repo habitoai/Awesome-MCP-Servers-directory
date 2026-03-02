@@ -212,6 +212,7 @@ MCP servers related to Developer Tools
 - [code-executor](https://github.com/bazinga012/mcp_code_executor) - An MCP server that allows LLMs to execute Python code within a specified Conda environment
 - [code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp) - An MCP server to create secure code sandbox environment for executing code within Docker containers
 - [Figma](https://github.com/Figma-Linux/figma-mcp-server) - A server that allows Claude to interact with Figma files
+- [OpenClaw MCP Ecosystem](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers) - 9 remote MCP servers on Cloudflare Workers edge. Streamable-http, zero install. JSON toolkit, regex engine, color palette, timestamp converter, prompt enhancer, AI market intel, fortune, content publisher, AI comparison. 25+ tools with free tier
 
 ## File Systems
 
