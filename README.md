@@ -370,6 +370,7 @@ MCP servers related to Search
 - [Everything Search](https://github.com/mamertofabian/mcp-everything-search) - Fast Windows file search using Everything SDK
 - [Kagi](https://github.com/ac3xx/mcp-servers-kagi) - Kagi search API integration
 - [Exa](https://github.com/theishangoswami/exa-mcp-server) - Exa AI Search API
+- [402.bot Discovery Oracle](https://github.com/sam00101011/402.bot-public) - Discover and inspect live agent APIs through a read-only remote MCP server. Search ranked endpoints by capability, inspect trust and payment telemetry, and analyze agent usage via https://api.402.bot/mcp
 - [Google Search Console](https://github.com/ahonn/mcp-server-gsc) - A Model Context Protocol (MCP) server providing access to Google Search Console
 - [Search1API](https://github.com/fatwang2/search1api-mcp) - Search and crawl in one API
 - [Google News](https://github.com/ChanMeng666/server-google-news) - Google News search capabilities with automatic topic categorization and multi-language support via SerpAPI integration
