@@ -266,6 +266,8 @@ MCP servers related to Location Services
 MCP servers related to Marketing
 
 - [Audiense Insights](https://github.com/AudienseCo/mcp-audiense-insights) - Marketing insights and audience analysis from Audiense reports, covering demographic, cultural, influencer, and content engagement analysis
+- [nowork-studio/toprank](https://github.com/nowork-studio/toprank) - SEO & Google Ads MCP server for Claude Code. Meta tag rewrites, JSON-LD schema markup, keyword bid adjustments, and content pushes to WordPress/Strapi/Contentful/Ghost.
+
 
 ## Monitoring
 
