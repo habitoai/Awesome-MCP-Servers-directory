@@ -190,6 +190,7 @@ MCP servers related to Databases
 
 MCP servers related to Developer Tools
 
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf
 - [Phabricator](https://github.com/baba786/phabricator-mcp-server) - Interacting with Phabricator API
 - [Docker](https://github.com/QuantGeekDev/docker-mcp) - Run and manage docker containers, docker compose, and logs
 - [Clojars](https://github.com/Bigsy/Clojars-MCP-Server) - Obtains latest dependency details for Clojure libraries
