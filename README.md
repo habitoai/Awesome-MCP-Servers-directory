@@ -266,6 +266,7 @@ MCP servers related to Location Services
 MCP servers related to Marketing
 
 - [Audiense Insights](https://github.com/AudienseCo/mcp-audiense-insights) - Marketing insights and audience analysis from Audiense reports, covering demographic, cultural, influencer, and content engagement analysis
+- [Packrift MCP Server](https://github.com/Packrift/packrift-mcp) - Public MCP server for Packrift packaging-supplies catalog lookup and ecommerce packaging workflow resources.
 
 ## Monitoring
 
