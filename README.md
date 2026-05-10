@@ -265,6 +265,7 @@ MCP servers related to Location Services
 
 MCP servers related to Marketing
 
+- [NotFair](https://github.com/nowork-studio/toprank) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API.
 - [Audiense Insights](https://github.com/AudienseCo/mcp-audiense-insights) - Marketing insights and audience analysis from Audiense reports, covering demographic, cultural, influencer, and content engagement analysis
 
 ## Monitoring
