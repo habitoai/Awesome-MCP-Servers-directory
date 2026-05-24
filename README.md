@@ -429,6 +429,7 @@ MCP servers related to Workflow Automation
 - [Zapier](https://zapier.com/l/mcp) - Connect your AI Agents to 8,000 apps instantly
 - [DifyWorkflow](https://github.com/gotoolkits/mcp-difyworkflow-server) - Tools to the query and execute of Dify workflows
 - [Make](https://github.com/integromat/make-mcp-server) - Turn your Make scenarios into callable tools for AI assistants
+- [Sanka](https://github.com/sankaHQ/sanka-mcp) - Hosted remote MCP server for Sanka API, connecting AI agents to CRM and back-office workflows
 - [User Feedback](https://github.com/mrexodia/user-feedback-mcp) - Simple MCP Server to enable a human-in-the-loop workflow in tools like Cline and Cursor
 - [Airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow) - A MCP Server that connects to Apache Airflow using official python client
 - [Dify](https://github.com/YanxingLiu/dify-mcp-server) - A simple implementation of an MCP server for dify workflows
