@@ -229,6 +229,7 @@ MCP servers related to Finance
 - [Financial Datasets](https://github.com/financial-datasets/mcp-server) - Stock market API made for AI agents
 - [Ramp](https://github.com/ramp-public/ramp-mcp) - Interact with Ramp's Developer API to run analysis on your spend and gain insights leveraging LLMs
 - [Stripe](https://github.com/stripe/agent-toolkit) - Interact with Stripe API
+- [CorpusIQ](https://github.com/CorpusIQ/corpusiq-docs) - Connect 25+ business tools (Shopify, QuickBooks, Google Ads, HubSpot, Stripe, GA4) to Claude and ChatGPT via MCP. Pre-built connectors for finance, ecommerce, CRM, analytics, and databases.
 - [AlphaVantage](https://github.com/calvernaz/alphavantage) - MCP server for stock market data API AlphaVantage
 - [Base Free USDC Transfer](https://github.com/magnetai/mcp-free-usdc-transfer) - Send USDC on Base for free using Claude AI! Built with Coinbase CDP
 - [coin_api_mcp](https://github.com/longmans/coin_api_mcp) - Provides access to coinmarketcap cryptocurrency data
