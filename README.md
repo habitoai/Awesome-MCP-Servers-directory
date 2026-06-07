@@ -212,6 +212,7 @@ MCP servers related to Developer Tools
 - [code-executor](https://github.com/bazinga012/mcp_code_executor) - An MCP server that allows LLMs to execute Python code within a specified Conda environment
 - [code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp) - An MCP server to create secure code sandbox environment for executing code within Docker containers
 - [Figma](https://github.com/Figma-Linux/figma-mcp-server) - A server that allows Claude to interact with Figma files
+- [gadgethumans-api-hub-mcp](https://github.com/scotia1973-bot/gadgethumans-api-hub-mcp) - 334 free developer tools: QR codes, passwords, UUIDs, hashes, Base64, JSON, color converter, email verification, IP geolocation, timestamps, plus 300+ calculators, text analysis, color tools, readability, domain, code and financial tools. MCP server at `uvx gadgethumans-api-hub-mcp`. Free, no API key required.
 
 ## File Systems
 
