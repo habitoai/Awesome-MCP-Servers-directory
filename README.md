@@ -397,6 +397,7 @@ MCP servers related to Social Media
 
 - [Bluesky](https://github.com/keturiosakys/bluesky-context-server) - Integrates with Bluesky API to query and search feeds and posts
 - [TikTok](https://github.com/Seym0n/tiktok-mcp) - TikTok integration for getting post details and video subtitles
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Provides MCP access to X/Twitter extraction tools, account monitoring, and webhooks
 
 ## System Automation
 
