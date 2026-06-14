@@ -7,7 +7,7 @@ A comprehensive collection of Model Context Protocol (MCP) servers categorized b
 ## What are MCP Servers?
 
 Model Context Protocol (MCP) servers are interfaces that allow AI models to interact with external systems and APIs, extending their capabilities beyond text generation. These servers enable Claude and other AI models to access real-time data, execute code, use external tools, and interact with various services.
-
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 ## Table of Contents
 
 - [AI Services](#ai-services)
