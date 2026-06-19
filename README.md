@@ -266,6 +266,7 @@ MCP servers related to Location Services
 MCP servers related to Marketing
 
 - [Audiense Insights](https://github.com/AudienseCo/mcp-audiense-insights) - Marketing insights and audience analysis from Audiense reports, covering demographic, cultural, influencer, and content engagement analysis
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live campaign and analytics data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
 
 ## Monitoring
 
