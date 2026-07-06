@@ -266,6 +266,7 @@ MCP servers related to Location Services
 MCP servers related to Marketing
 
 - [Audiense Insights](https://github.com/AudienseCo/mcp-audiense-insights) - Marketing insights and audience analysis from Audiense reports, covering demographic, cultural, influencer, and content engagement analysis
+- [LLM Pulse](https://github.com/LLM-Pulse/llmpulse-mcp) - AI search visibility analytics for brand mentions, citations, sentiment, share of voice, recommendations, and AI traffic
 
 ## Monitoring
 
