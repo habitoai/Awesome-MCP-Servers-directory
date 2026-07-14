@@ -234,6 +234,7 @@ MCP servers related to Finance
 - [coin_api_mcp](https://github.com/longmans/coin_api_mcp) - Provides access to coinmarketcap cryptocurrency data
 - [crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) - Providing real-time and historical Crypto Fear & Greed Index data
 - [cryptopanic-mcp-server](https://github.com/kukapay/cryptopanic-mcp-server) - Providing latest cryptocurrency news to AI agents, powered by CryptoPanic
+- [AgentServices](https://agentservices.to) - Paid x402 API platform for AI agents: 54 services including crypto prices, market data, DeFi yields, stock data, and financial analytics with 37 MCP tools
 
 ## Gaming
 
