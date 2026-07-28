@@ -45,6 +45,7 @@ MCP servers related to AI Services
 
 - [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) - Query OpenAI models directly from Claude using MCP protocol
 - [any-chat-completions-mcp](https://github.com/pyroprompts/any-chat-completions-mcp) - Chat with any other OpenAI SDK Compatible Chat Completions API, like Perplexity, Groq, xAI and more
+- [RouterBase MCP](https://github.com/zenlee123/routerbase-mcp) - MCP server for model discovery, pricing lookup, and OpenAI-compatible chat completions through [routerbase](https://routerbase.com).
 - [HuggingFace Spaces](https://github.com/evalstate/mcp-hfspace) - Server for using HuggingFace Spaces, supporting Images, Audio, Text and more. Claude Desktop mode for ease-of-use
 - [Gemsuite](https://github.com/PV-Bhat/gemsuite-mcp) - The ultimate open-source server for advanced Gemini API interaction with MCP, intelligently selects models
 - [PiAPI](https://github.com/apinetwork/piapi-mcp-server) - PiAPI MCP server makes user able to generate media content with Midjourney/Flux/Kling/Hunyuan/Udio/Trellis directly from Claude or any other MCP-compatible apps
