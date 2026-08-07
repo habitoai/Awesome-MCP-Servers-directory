@@ -397,6 +397,7 @@ MCP servers related to Social Media
 
 - [Bluesky](https://github.com/keturiosakys/bluesky-context-server) - Integrates with Bluesky API to query and search feeds and posts
 - [TikTok](https://github.com/Seym0n/tiktok-mcp) - TikTok integration for getting post details and video subtitles
+- [Autoposting](https://github.com/Autoposting-ai/autoposting-mcp) - Schedule, generate and publish social posts to X, LinkedIn, Instagram, Threads and YouTube
 
 ## System Automation
 
