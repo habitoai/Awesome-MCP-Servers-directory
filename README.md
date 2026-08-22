@@ -412,6 +412,7 @@ MCP servers related to System Automation
 MCP servers related to Travel & Transportation
 
 - [Airbnb](https://github.com/openbnb-org/mcp-server-airbnb) - Provides tools to search Airbnb and get listing details
+- [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) - Search peer-to-peer luxury, exotic, and EV rentals from independent hosts
 
 ## Version Control
 
