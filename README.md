@@ -211,6 +211,7 @@ MCP servers related to Developer Tools
 - [code-assistant](https://github.com/stippi/code-assistant) - A coding assistant MCP server that allows to explore a code-base and make changes to code. Should be used with trusted repos only (insufficient protection against prompt injections)
 - [code-executor](https://github.com/bazinga012/mcp_code_executor) - An MCP server that allows LLMs to execute Python code within a specified Conda environment
 - [code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp) - An MCP server to create secure code sandbox environment for executing code within Docker containers
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Self-hosted agent runtime MCP bridge with persistent sessions, approvals, audit, and replay
 - [Figma](https://github.com/Figma-Linux/figma-mcp-server) - A server that allows Claude to interact with Figma files
 
 ## File Systems
