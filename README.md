@@ -79,6 +79,7 @@ MCP servers related to Art & Culture
 - [Ableton Live](https://github.com/Simon-Kansara/ableton-live-mcp-server) - An MCP server to control Ableton Live
 - [Blender](https://github.com/ahujasid/blender-mcp) - Blender integration allowing prompt enabled 3D scene creation, modeling and manipulation
 - [Genius](https://github.com/Mito-Ya-Baraka/genius-mcp-server) - A MCP server to interact with Genius API for song lyrics and annotations
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Official local-first TypeScript MCP toolkit for editable video timelines
 
 ## Browser Automation
 
