@@ -199,6 +199,7 @@ MCP servers related to Developer Tools
 - [Godot MCP](https://github.com/Coding-Solo/godot-mcp) - MCP server for interacting with the Godot game engine, providing tools for editing, running, debugging, and managing scenes in Godot projects
 - [Zed](https://github.com/zed-industries/zed) - Multiplayer code editor from the creators of atom
 - [Continue](https://github.com/continuedev/continue) - VSCode auto complete and chat tool (full feature support)
+- [ContextStream](https://github.com/contextstream/mcp-server) - Shared project context for AI coding agents — hosted MCP with code search plus decisions, lessons, and plans
 - [codemirror-mcp](https://github.com/marimo-team/codemirror-mcp) - CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands
 - [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A Neovim plugin that provides a UI and API to interact with MCP servers
 - [LiteMCP](https://github.com/wong2/litemcp) - A TypeScript framework for building MCP servers elegantly
