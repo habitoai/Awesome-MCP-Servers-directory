@@ -234,6 +234,7 @@ MCP servers related to Finance
 - [coin_api_mcp](https://github.com/longmans/coin_api_mcp) - Provides access to coinmarketcap cryptocurrency data
 - [crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) - Providing real-time and historical Crypto Fear & Greed Index data
 - [cryptopanic-mcp-server](https://github.com/kukapay/cryptopanic-mcp-server) - Providing latest cryptocurrency news to AI agents, powered by CryptoPanic
+- [UnlockFlow MCP](https://github.com/mhr2027r-dotcom/mcp-unlockflow) - Unlock × capital-flow events as MCP tools (UnlockFlowEvent v1; illustrative seeds; NFA — not financial advice)
 
 ## Gaming
 
