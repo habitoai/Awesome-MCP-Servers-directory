@@ -221,6 +221,7 @@ MCP servers related to File Systems
 
 ## Finance
 
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 MCP servers related to Finance
 
 - [CoinCap](https://github.com/QuantGeekDev/coincap-mcp) - A MCP server that provides real-time cryptocurrency market data through CoinCap's public API without requiring authentication
