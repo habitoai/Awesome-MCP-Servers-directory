@@ -84,6 +84,7 @@ MCP servers related to Art & Culture
 
 MCP servers related to Browser Automation
 
+- [Agent QA](https://vostride.com/docs/agent-qa/mcp) - Local MCP tools to author, validate, run and triage YAML web, Android and iOS tests. Currently free under FSL-1.1-ALv2; configured model, browser and device services may charge separately.
 - [Puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) - Browser automation and web scraping
 - [Playwright MCP Server](https://github.com/executeautomation/mcp-playwright) - An MCP server using Playwright for browser automation and webscrapping
 - [Apify](https://github.com/apify/actors-mcp-server) - Use 3,000+ pre-built cloud tools to extract data from websites, e-commerce, social media, search engines, maps, and more
