@@ -225,6 +225,7 @@ MCP servers related to Finance
 
 - [CoinCap](https://github.com/QuantGeekDev/coincap-mcp) - A MCP server that provides real-time cryptocurrency market data through CoinCap's public API without requiring authentication
 - [Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin) - The only platform you need to get paid - all payments in one place, invoicing and accounting reconciliations
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local-first payment runtime with a stdio MCP interface for x402 offer inspection, bounded payment preparation, status and receipt recovery on Apple Silicon macOS (Node 24).
 - [Fewsats](https://github.com/Fewsats/fewsats-mcp) - Enable AI Agents to purchase anything in a secure way using Fewsats
 - [Financial Datasets](https://github.com/financial-datasets/mcp-server) - Stock market API made for AI agents
 - [Ramp](https://github.com/ramp-public/ramp-mcp) - Interact with Ramp's Developer API to run analysis on your spend and gain insights leveraging LLMs
