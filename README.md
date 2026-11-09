@@ -384,7 +384,7 @@ MCP servers related to Search
 - [Discourse](https://github.com/AshDevFr/discourse-mcp-server) - A MCP server to search Discourse posts on a Discourse forum
 - [Elasticsearch](https://github.com/cr7258/elasticsearch-mcp-server) - MCP server implementation that provides Elasticsearch interaction
 - [Typesense](https://github.com/suhail-ak-s/mcp-typesense-server) - A Model Context Protocol (MCP) server implementation that provides AI models with access to Typesense search capabilities. This server enables LLMs to discover, search, and analyze data stored in Typesense collections
-- [Arcmira: YouTube Transcript Search](https://arcmira.com) - Remote MCP server for finding timestamped quotes and speaker appearances across indexed YouTube transcripts. [API docs](https://arcmira.com/docs).
+- [Arcmira: YouTube Transcript Search](https://arcmira.com) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. [API docs](https://arcmira.com/docs).
 
 ## Security
 
