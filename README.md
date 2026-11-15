@@ -74,6 +74,8 @@ MCP servers related to AI Services
 
 ## Art & Culture
 
+- [No Stairs Please](https://nostairsplease.com/mcp) - Remote MCP server for searching 38,000+ live music venues across all 50 US states, room capacities, and booking contacts.
+
 MCP servers related to Art & Culture
 
 - [Ableton Live](https://github.com/Simon-Kansara/ableton-live-mcp-server) - An MCP server to control Ableton Live
