@@ -223,6 +223,7 @@ MCP servers related to File Systems
 
 MCP servers related to Finance
 
+- [Oppi Digital Products](https://github.com/Reggiebro/oppi-digital-products) - MCP server for sample-first digital products, crypto payment instructions, read-only on-chain verification, and delivery requests (`npx -y oppi-digital-products-mcp`)
 - [CoinCap](https://github.com/QuantGeekDev/coincap-mcp) - A MCP server that provides real-time cryptocurrency market data through CoinCap's public API without requiring authentication
 - [Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin) - The only platform you need to get paid - all payments in one place, invoicing and accounting reconciliations
 - [Fewsats](https://github.com/Fewsats/fewsats-mcp) - Enable AI Agents to purchase anything in a secure way using Fewsats
