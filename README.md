@@ -379,6 +379,7 @@ MCP servers related to Search
 - [Kagi Search](https://github.com/kagisearch/kagimcp) - Search the web using Kagi's search API
 - [Meilisearch](https://github.com/meilisearch/meilisearch-mcp) - Interact & query with Meilisearch (Full-text & semantic search API)
 - [Needle](https://github.com/needle-ai/needle-mcp) - Production-ready RAG out of the box to search and retrieve data from your own documents
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 - [Tavily](https://github.com/tavily-ai/tavily-mcp) - Search engine for AI agents (search + extract) powered by Tavily
 - [Bing Web Search API](https://github.com/leehanchung/bing-search-mcp) - Server implementation for Microsoft Bing Web Search API
 - [Discourse](https://github.com/AshDevFr/discourse-mcp-server) - A MCP server to search Discourse posts on a Discourse forum
